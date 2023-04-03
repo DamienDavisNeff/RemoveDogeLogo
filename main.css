@@ -1,3 +1,4 @@
+div[aria-label="Loading…"],
 h1[role="heading"] {
     display: none !important;
 }
