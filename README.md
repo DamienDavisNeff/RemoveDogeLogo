@@ -3,7 +3,7 @@ Removes the doge logo from the homescreen of Twitter (Currently does not remove 
 
 
 ## To Use
-1. Go To [Releases]()
+1. Go To [Releases](https://github.com/DamienDavisNeff/RemoveDogeLogo/releases/)
 2. Download The Release
 3. Extract The File
 4. Go To `chrome://extensions`
