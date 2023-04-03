@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Remove Twitter Doge Logo",
     "short_name": "Doge Logo Remover",
-    "version": "0.0.0.1",
+    "version": "0.0.0.2",
     "description": "Removes the stupid doge logo from the Twitter homepage.",
     "icons":{
       "128":"images/icon.png",
