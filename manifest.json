@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Remove Twitter Doge Logo",
+    "short_name": "Doge Logo Remover",
+    "version": "0.0.0.1",
+    "description": "Removes the stupid doge logo from the Twitter homepage.",
+    "icons":{
+      "128":"images/icon.png",
+      "48":"images/icon_small.png"
+    },
+    "content_scripts": [{
+      "css":["main.css"],
+      "matches": ["*://*.twitter.com/*"]
+    }]
+}
