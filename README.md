@@ -1,5 +1,5 @@
 # RemoveDogeLogo
-Removes the doge logo from the homescreen of Twitter (Currently does not remove the doge loading screen)
+Removes the doge logo from the homescreen of Twitter
 
 
 ## To Use
