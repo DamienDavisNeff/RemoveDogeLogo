@@ -1,7 +1,8 @@
 # RemoveDogeLogo
-THIS IS NOW USELESS, AS THE DOGE LOGO HAS BEEN REMOVED! Now it removes the bird from the Twitter homescreen. 
+THIS IS NOW USELESS, AS THE DOGE LOGO HAS BEEN REMOVED! Now it just removes the bird from the Twitter homescreen. 
 
-[Old]Removed the doge logo from the homescreen of Twitter
+***
+Removed the doge logo from the homescreen of Twitter
 
 
 ## To Use
